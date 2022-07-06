@@ -1,9 +1,10 @@
 public class Decoding {
     public static void main(String[] args) {
-        String cleverPhrase = getCleverPhrase("Input the phrase you use to remember a specific phone number (Max 25 characters allowed): ");
-        checkPhrase(cleverPhrase);
+        //String cleverPhrase = getCleverPhrase("Input the phrase you use to remember a specific phone number (Max 25 characters allowed): ");
+        //checkPhrase(cleverPhrase);
+        System.out.println("hola");
     }
-
+/*
     public static String getCleverPhrase(String prompt) {
         String input;
         System.out.print(prompt);
@@ -26,7 +27,7 @@ public class Decoding {
                 }
             }
         } while ()
-    }
+    }*/
 }
 
 /*

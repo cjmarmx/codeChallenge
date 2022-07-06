@@ -58,7 +58,7 @@ public class LargestPosNeg {
         }
     }
 
-}
+
 /*
 Write a function that:
 Given an array of integers, find the largest integer such that its value exist positive and negative.
